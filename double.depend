@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1609352605 source:c:\users\fufu\desktop\double\main.cpp
+	<iostream>
+	"DoublyIntLinkedList.h"
+
+1609352792 c:\users\fufu\desktop\double\doublyintlinkedlist.h
+	<iostream>
+
